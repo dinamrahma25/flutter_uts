@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
                           padding: const EdgeInsets.only(
                               top: 40, bottom: 15, left: 20, right: 10),
                           child: Text('LinkAja!', style: TextStyle(
-          color: Color.fromARGB(255, 243, 33, 33)
+          color: Color.fromARGB(255, 243, 33, 33), fontSize: 24
                           )),
                   )],
                   ),
